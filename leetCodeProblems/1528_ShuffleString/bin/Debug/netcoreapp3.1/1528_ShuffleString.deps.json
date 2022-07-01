@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1528_ShuffleString/1.0.0": {
+        "runtime": {
+          "1528_ShuffleString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1528_ShuffleString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

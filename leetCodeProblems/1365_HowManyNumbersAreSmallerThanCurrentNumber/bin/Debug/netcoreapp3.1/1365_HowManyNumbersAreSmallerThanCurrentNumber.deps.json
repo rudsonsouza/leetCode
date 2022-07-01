@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "1365_HowManyNumbersAreSmallerThanCurrentNumber/1.0.0": {
+        "runtime": {
+          "1365_HowManyNumbersAreSmallerThanCurrentNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1365_HowManyNumbersAreSmallerThanCurrentNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\bin\Debug\netcoreapp3.1\1528_ShuffleString.exe
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\bin\Debug\netcoreapp3.1\1528_ShuffleString.deps.json
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\bin\Debug\netcoreapp3.1\1528_ShuffleString.runtimeconfig.json
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\bin\Debug\netcoreapp3.1\1528_ShuffleString.runtimeconfig.dev.json
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\bin\Debug\netcoreapp3.1\1528_ShuffleString.dll
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\bin\Debug\netcoreapp3.1\1528_ShuffleString.pdb
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\obj\Debug\netcoreapp3.1\1528_ShuffleString.csproj.AssemblyReference.cache
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\obj\Debug\netcoreapp3.1\1528_ShuffleString.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\obj\Debug\netcoreapp3.1\1528_ShuffleString.AssemblyInfoInputs.cache
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\obj\Debug\netcoreapp3.1\1528_ShuffleString.AssemblyInfo.cs
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\obj\Debug\netcoreapp3.1\1528_ShuffleString.csproj.CoreCompileInputs.cache
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\obj\Debug\netcoreapp3.1\1528_ShuffleString.dll
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\obj\Debug\netcoreapp3.1\1528_ShuffleString.pdb
+C:\RepositorioGitHub\leetCode\leetCodeProblems\1528_ShuffleString\obj\Debug\netcoreapp3.1\1528_ShuffleString.genruntimeconfig.cache

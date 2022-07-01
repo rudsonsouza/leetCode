@@ -1,0 +1,14 @@
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\bin\Debug\netcoreapp3.1\2103_RingsAndRods.exe
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\bin\Debug\netcoreapp3.1\2103_RingsAndRods.deps.json
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\bin\Debug\netcoreapp3.1\2103_RingsAndRods.runtimeconfig.json
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\bin\Debug\netcoreapp3.1\2103_RingsAndRods.runtimeconfig.dev.json
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\bin\Debug\netcoreapp3.1\2103_RingsAndRods.dll
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\bin\Debug\netcoreapp3.1\2103_RingsAndRods.pdb
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\obj\Debug\netcoreapp3.1\2103_RingsAndRods.csproj.AssemblyReference.cache
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\obj\Debug\netcoreapp3.1\2103_RingsAndRods.GeneratedMSBuildEditorConfig.editorconfig
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\obj\Debug\netcoreapp3.1\2103_RingsAndRods.AssemblyInfoInputs.cache
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\obj\Debug\netcoreapp3.1\2103_RingsAndRods.AssemblyInfo.cs
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\obj\Debug\netcoreapp3.1\2103_RingsAndRods.csproj.CoreCompileInputs.cache
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\obj\Debug\netcoreapp3.1\2103_RingsAndRods.dll
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\obj\Debug\netcoreapp3.1\2103_RingsAndRods.pdb
+C:\RepositorioGitHub\leetCode\leetCodeProblems\2103_RingsAndRods\obj\Debug\netcoreapp3.1\2103_RingsAndRods.genruntimeconfig.cache
