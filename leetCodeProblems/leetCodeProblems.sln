@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2103_RingsAndRods", "2103_R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "832_FlippingImage", "832_FlippingImage\832_FlippingImage.csproj", "{39D4AE3B-C0C9-4CAA-A8C2-E60F4D15D4F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2089_FindTargeIndicesAfterSortingArray", "2089_FindTargeIndicesAfterSortingArray\2089_FindTargeIndicesAfterSortingArray.csproj", "{45AD1594-CD86-4AE4-BC0C-7F447D30B875}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{39D4AE3B-C0C9-4CAA-A8C2-E60F4D15D4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39D4AE3B-C0C9-4CAA-A8C2-E60F4D15D4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39D4AE3B-C0C9-4CAA-A8C2-E60F4D15D4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45AD1594-CD86-4AE4-BC0C-7F447D30B875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45AD1594-CD86-4AE4-BC0C-7F447D30B875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45AD1594-CD86-4AE4-BC0C-7F447D30B875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45AD1594-CD86-4AE4-BC0C-7F447D30B875}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
